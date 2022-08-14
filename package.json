@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/divyanshgoyal07.lwc-l6t5w1co",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve fnzyR0NSOuTxMDtXvI8c --open"
+  }
+}
